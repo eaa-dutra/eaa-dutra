@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas Vindas ao Meu Perifl ❤️‍🔥
 
-<!--
-**eaa-dutra/eaa-dutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome e Beatriz Dutra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou estudando na [alura](https://www.alura.com.br)
+
+-estou me desenvolvendo na linguagem javascript
+
+-utilizo esse espaço para minha organizacao e compartilhamento dos meus projetos desenvolvidos
+### voce pode entrar em contato comigo 📫
+
+00001106072935sp@al.educacao.sp.gov.br
+
+@BeatrizDutra
+
+![](https://media1.tenor.com/m/ssPA7n-7pG0AAAAC/sailor-moon-anime.gif)
