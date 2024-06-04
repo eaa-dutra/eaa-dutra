@@ -1,7 +1,7 @@
 ## Boas Vindas ao Meu Perifl ❤️‍🔥
 
 
-meu nome e Beatriz Dutra
+meu nome e **Beatriz Dutra**
 
 -estou estudando na [alura](https://www.alura.com.br)
 
